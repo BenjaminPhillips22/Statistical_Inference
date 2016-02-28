@@ -1,6 +1,11 @@
 # Course Project
 Course project for the course Inferential Statistics, part of the Coursera data-science specialization
 
+My R markdown files have also been published on rpubs.com
+[Simulation of Exponential Variables and Means](http://rpubs.com/benjaminphillips22/156506)
+[ToothGrowth Data Analysis](http://rpubs.com/benjaminphillips22/156542)
+
+
 ## Instructions from the course website
 
 This is the project for the statistical inference class. In it, you will use simulation to explore inference and do some simple inferential data analysis.

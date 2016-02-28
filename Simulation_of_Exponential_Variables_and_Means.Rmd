@@ -1,3 +1,6 @@
+---
+output: word_document
+---
 
 
 # Simulation of Exponential Variables and Means
