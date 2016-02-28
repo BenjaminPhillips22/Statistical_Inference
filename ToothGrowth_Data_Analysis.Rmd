@@ -1,6 +1,3 @@
----
-output: word_document
----
 
 # ToothGrowth Data Analysis
 ### Benjamin Phillips

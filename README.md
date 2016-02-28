@@ -1,8 +1,8 @@
 # Course Project
 Course project for the course Inferential Statistics, part of the Coursera data-science specialization
 
-My R markdown files have also been published on rpubs.com
-[Simulation of Exponential Variables and Means](http://rpubs.com/benjaminphillips22/156506)
+My R markdown files have also been published on rpubs.com  
+[Simulation of Exponential Variables and Means](http://rpubs.com/benjaminphillips22/156506)  
 [ToothGrowth Data Analysis](http://rpubs.com/benjaminphillips22/156542)
 
 
